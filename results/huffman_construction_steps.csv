@@ -1,0 +1,6 @@
+Step,Left node frequency,Right node frequency,Merged frequency,Trees remaining,Description
+0,,,,5,Step 0 - Initial frequency nodes
+1,1.0,3.0,4.0,4,Step 1 - Merge 'D' (1) and 'C' (3) to create node 4
+2,4.0,4.0,8.0,3,Step 2 - Merge 'N' (4) and Internal Node 4 (4) to create node 8
+3,5.0,6.0,11.0,2,Step 3 - Merge 'B' (5) and 'A' (6) to create node 11
+4,8.0,11.0,19.0,1,Step 4 - Merge Internal Node 8 (8) and Internal Node 11 (11) to create node 19

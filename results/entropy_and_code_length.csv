@@ -1,0 +1,3 @@
+Language,Bytes,Distinct byte values,Entropy H (bits/byte),Average Huffman length L,H <= L,L < H + 1,Prefix-free,Kraft sum
+English,33119,44,4.381032684212337,4.400555572330083,True,True,True,1.0
+Persian,51119,46,4.099973376625415,4.124669887908605,True,True,True,1.0

@@ -1,0 +1,7 @@
+Language,Method,Exact byte match
+English,Huffman,True
+English,LZW,True
+English,Adaptive Huffman,True
+Persian,Huffman,True
+Persian,LZW,True
+Persian,Adaptive Huffman,True
